@@ -6,15 +6,9 @@ include_in_header: true
 
 # Changelog
 
-<br>
-
-<br>
-
 ### `Initial Release`
-
-### `Latest`
 
 # **Version 1.0**
 
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+Strenia is a fitness and workout tracking app designed to help you achieve your fitness goals with precision and ease. It offers an intuitive and streamlined experience for logging exercises, tracking progress, and calculating key workout metrics. Strenia adapts to your workout style and provides insightful data to help you improve. With features like rep and set tracking, personalized workout plans, and advanced analytics, Strenia is your go-to companion for building strength, endurance, and overall fitness. No ads, no subscriptions, no social media.
 <br>
