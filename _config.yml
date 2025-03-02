@@ -25,9 +25,13 @@ facebook_username:
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
-  - title: Focused on Fitness, No Distractions
-    description: We prioritize your workout experience with no ads, no social media noise—just a one-time fee for uninterrupted training.
-    fontawesome_icon_name: dumbbell
+  - title: No Ads, No Distractions
+    description: Enjoy an uninterrupted workout experience—no ads, no social media noise.
+    fontawesome_icon_name: ban
+
+  - title: One-Time Payment, No Subscription Fees
+    description: Pay once and get full access to all features—no recurring subscriptions or hidden costs.
+    fontawesome_icon_name: credit-card
 
   - title: Customizable Workout Plans
     description: Design and personalize your own workout routines based on your fitness goals. Adjust sets, and reps to fit your needs.
