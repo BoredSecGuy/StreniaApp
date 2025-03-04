@@ -25,7 +25,7 @@ facebook_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: No Ads, No Distractions
-    description: Enjoy an uninterrupted workout experience—no ads, no social media noise.
+    description: Enjoy an uninterrupted workout experience—no ads, no social media noise. Just work.
     fontawesome_icon_name: ban
 
   - title: One-Time Payment, No Subscription Fees
@@ -35,6 +35,10 @@ features:
   - title: Customizable Workout Plans
     description: Design and personalize your own workout routines based on your fitness goals. Adjust sets, and reps to fit your needs.
     fontawesome_icon_name: cogs
+
+  - title: Offline Tracking
+    description: Does your gym also have terrible service? Mine too. Offline tracking let's you track everything local to the device, not needing the internet.
+    fontawesome_icon_name: wifi-slash
 
   - title: Progress Tracking
     description: Monitor your progress over time with detailed analytics, including weight lifted, total volume, and personal bests.
@@ -73,10 +77,10 @@ feature_text_color: "#666666"
 feature_icons_foreground_color: "#1d63ea"
 feature_icons_background_color: "#e6e6e6"
 
-social_icons_foreground_color: "#666666"
-social_icons_background_color: "#e6e6e6"
+social_icons_foreground_color: "#8E8E93"
+social_icons_background_color: "#FF453A"
 
-footer_text_color: "#666666"
+footer_text_color: "#1d63ea"
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
