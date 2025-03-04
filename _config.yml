@@ -2,7 +2,7 @@
 page_title: Strenia # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id: 1234793120 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: 6741124670 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country: us # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -12,9 +12,9 @@ presskit_download_link:
   # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon: # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Strenia is a fitness and workout tracking app designed to help you achieve your fitness goals with precision and ease. No ads, no subscriptions, no bull shit.
+app_name: Strenia # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price: 0.00 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description: Strenia is a fitness and workout tracking app designed to help you achieve your fitness goals with precision and ease. No ads, no subscriptions, no social media, no bull shit.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -32,13 +32,13 @@ features:
     description: Pay once and get full access to all features—no recurring subscriptions or hidden costs.
     fontawesome_icon_name: credit-card
 
-  - title: Customizable Workout Plans
-    description: Design and personalize your own workout routines based on your fitness goals. Adjust sets, and reps to fit your needs.
-    fontawesome_icon_name: cogs
-
   - title: Offline Tracking
     description: Does your gym also have terrible service? Mine too. Offline tracking let's you track everything local to the device, not needing the internet.
     fontawesome_icon_name: signal
+
+  - title: Customizable Workout Plans
+    description: Design and personalize your own workout routines based on your fitness goals. Adjust sets, and reps to fit your needs.
+    fontawesome_icon_name: cogs
 
   - title: Progress Tracking
     description: Monitor your progress over time with detailed analytics, including weight lifted, total volume, and personal bests.
