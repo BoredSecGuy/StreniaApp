@@ -38,7 +38,7 @@ features:
 
   - title: Offline Tracking
     description: Does your gym also have terrible service? Mine too. Offline tracking let's you track everything local to the device, not needing the internet.
-    fontawesome_icon_name: wifi-slash
+    fontawesome_icon_name: signal
 
   - title: Progress Tracking
     description: Monitor your progress over time with detailed analytics, including weight lifted, total volume, and personal bests.
