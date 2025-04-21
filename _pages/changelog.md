@@ -12,11 +12,20 @@ Introducing Strenia, the ultimate strength training companion designed for serio
 
 ### `Latest`
 
+# **Version 1.1**
+
+New flexible pricing options to make Strenia more accessible to everyone:
+
+- 14-day free trial for all new users
+- Monthly subscription for $0.99
+- Annual subscription for $9.99
+- Lifetime access for $14.99
+
 ### `Initial Release`
 
 # **Version 1.0**
 
-Strenia brings powerful strength tracking to serious lifters with an intuitive, distraction-free interface. Track sets, reps, and weights with precision while visualizing your progress through elegant charts. The comprehensive workout history gives you complete visibility into your training journey, with automatic PR detection to highlight your achievements. Custom routines streamline your workout starts, while the robust exercise library provides everything you need to track your training effectively. One-time purchase with no subscriptions ensures lifetime access to all features.
+Strenia brings powerful strength tracking to serious lifters with an intuitive, distraction-free interface. Track sets, reps, and weights with precision while visualizing your progress through elegant charts. The comprehensive workout history gives you complete visibility into your training journey, with automatic PR detection to highlight your achievements. Custom routines streamline your workout starts, while the robust exercise library provides everything you need to track your training effectively.
 
 #### What's New
 
@@ -30,7 +39,6 @@ Strenia brings powerful strength tracking to serious lifters with an intuitive, 
 
 #### Features
 
-- One-time purchase with no subscriptions or recurring fees
 - Privacy-focused design keeps your data on your device
 - Elegant dark mode support that follows system preferences
 - Regular updates with new features and improvements

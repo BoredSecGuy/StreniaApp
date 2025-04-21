@@ -12,7 +12,7 @@ appstore_link:
 app_icon: # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price: # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description: Strenia is a powerful fitness tracking app designed for serious strength training. What makes us different? A beautiful, intuitive design that allows you to focus on your lift. With customizable routines and a robust exercise library, Strenia provides everything you need to optimize your strength training in a sleek, modern interface. You should be focused on your workout, not your tracking.
+app_description: Strenia is a powerful fitness tracking app designed for serious strength training. Start with a 14-day free trial to experience all features. After your trial, choose from flexible pricing options: monthly ($0.99), annual ($9.99), or lifetime access ($14.99). What makes us different? A beautiful, intuitive design that allows you to focus on your lift. With customizable routines and a robust exercise library, Strenia provides everything you need to optimize your strength training in a sleek, modern interface. You should be focused on your workout, not your tracking.
 
 enable_smart_app_banner: true # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -22,6 +22,14 @@ email_address: streniaapp@gmail.com
 
 # Feature List                            Edit, add or remove features to be presented.
 features:
+  - title: 14-Day Free Trial
+    description: Try all features completely free for 14 days. No credit card required.
+    fontawesome_icon_name: clock
+
+  - title: Flexible Pricing Options
+    description: Choose what works best for you - monthly ($0.99), annual ($9.99), or lifetime access ($14.99).
+    fontawesome_icon_name: dollar-sign
+
   - title: Comprehensive Workout Tracking
     description: Track all your exercises, sets, reps, and weights with precision. Monitor your progress and see your strength gains in real-time.
     fontawesome_icon_name: dumbbell
@@ -29,10 +37,6 @@ features:
   - title: Visual Progress Charts
     description: Beautiful, intuitive charts visualize your strength gains over time. Easily identify trends and see your improvements at a glance.
     fontawesome_icon_name: chart-line
-
-  - title: One-Time Purchase
-    description: No subscriptions or recurring fees. Pay once and enjoy all features forever, including all future updates.
-    fontawesome_icon_name: dollar-sign
 
   - title: Workout History & Calendar
     description: Navigate your entire workout history through an elegant calendar view. Quickly access past workouts by date with a single tap.
